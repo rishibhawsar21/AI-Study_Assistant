@@ -1,0 +1,8 @@
+openai
+PyPDF2
+transformers
+torch
+streamlit
+Reader
+requests
+datasets

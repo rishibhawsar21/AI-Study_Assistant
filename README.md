@@ -146,13 +146,7 @@ ai-study-assistant/
 ├── README.md            # This file
 │
 ├── utils/
-│   ├── pdf_processor.py # PDF extraction utilities
-│   ├── ai_models.py     # AI model interfaces
-│   └── helpers.py       # Helper functions
-│
-└── tests/
-    └── test_app.py      # Unit tests
-```
+│   ├── pdf_processor.py # PDF
 
 ## 🔧 Dependencies
 

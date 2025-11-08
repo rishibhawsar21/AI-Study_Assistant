@@ -6,8 +6,6 @@
 
 An intelligent PDF analysis tool powered by AI that helps students and professionals extract insights, generate summaries, and get instant answers from their documents.
 
-![AI Study Assistant Demo](https://via.placeholder.com/800x400/4A90E2/FFFFFF?text=AI+Study+Assistant+Demo)
-
 ## ✨ Features
 
 - 📄 **PDF Text Extraction** - Upload PDFs or load from URLs/local files
@@ -136,21 +134,15 @@ HUGGING_FACE_TOKEN = "your-token"
 ## 📁 Project Structure
 
 ```
-ai-study-assistant/
+
+AI-Study_Assistant/
 │
-├── app.py                 # Main Streamlit application
-├── config.py             # Configuration settings
-├── requirements.txt      # Python dependencies
-├── .env.example         # Example environment variables
-├── .gitignore           # Git ignore file
-├── README.md            # This file
-│
-├── utils/
-│   ├── pdf_processor.py # PDF
+├── app.py              # Main Streamlit app
+├── requirements.txt    # Dependencies
+└── README.md           # Project documentation
 
 ## 🔧 Dependencies
 
-```
 streamlit>=1.28.0
 PyPDF2>=3.0.0
 transformers>=4.30.0
@@ -158,7 +150,6 @@ openai>=1.0.0
 requests>=2.31.0
 python-dotenv>=1.0.0
 torch>=2.0.0
-```
 
 ## 🤝 Contributing
 
@@ -188,7 +179,7 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 
 ## 👨‍💻 Author
 
-**Your Name**
+**Rishikesh Bhawsar**
 - GitHub: [@rishibhawsar21](https://github.com/rishibhawsar21)
 - LinkedIn: www.linkedin.com/in/rishikesh-bhawsar-b884b8229
 
@@ -201,9 +192,10 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 
 ## 📊 Stats
 
-![GitHub stars](https://img.shields.io/github/stars/yourusername/ai-study-assistant?style=social)
-![GitHub forks](https://img.shields.io/github/forks/yourusername/ai-study-assistant?style=social)
-![GitHub issues](https://img.shields.io/github/issues/yourusername/ai-study-assistant)
+https://github.com/rishibhawsar21/AI-Study_Assistant.git
+https://img.shields.io/github/stars/rishibhawsar21/AI-Study_Assistant?style=social
+https://img.shields.io/github/issues/rishibhawsar21/AI-Study_Assistant
+
 
 ---
 
